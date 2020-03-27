@@ -13,7 +13,7 @@ Features:
 
 
 'json-server' as Dev Dependency and Dummy Backend Server
-Materializa-css for main styling
+'Materialize-css' for main styling
 
 
 - a project from Brad Traversy's react course
