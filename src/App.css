@@ -1,0 +1,15 @@
+.margin-top-five {
+    margin-top: 5rem;
+}
+
+.modalStyle {
+    width: 75%;
+    height: 75%;
+}
+
+/* #toast-container {
+    bottom: auto !important;
+    left: auto !important;
+    top: 0%;
+    right:0%;
+  } for postition modification only*/

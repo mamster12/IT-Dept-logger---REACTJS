@@ -1,47 +1,42 @@
 {
-    "logs": [
-        {
-            "id": 1,
-            "message": "Changed hard drive on workstation 005",
-            "attention": false,
-            "date": "03-02-2019",
-            "tech": "Sam Smith"
-        },
-        {
-            "id": 2,
-            "message": "workstation 007 not posting",
-            "attention": true,
-            "date": "03-02-2019",
-            "tech": "John Doe"
-        },
-        {
-            "id": 3,
-            "message": "change memory on workstation 050",
-            "attention": false,
-            "date": "03-02-2019",
-            "tech": "Sara Wilson"
-        }
-    ],
-    "techs": [
-        {
-            "id": 1,
-            "firstName": "John",
-            "attention": "Doe"
-        },
-        {
-            "id": 2,
-            "firstName": "Sam",
-            "attention": "Smith"
-        },
-        {
-            "id": 3,
-            "firstName": "Sara",
-            "attention": "Wilson"
-        },
-        {
-            "firstName": "Jennivere",
-            "lastName": "Lawrence",
-            "id": 4
-        }
-    ]
+  "logs": [
+    {
+      "message": "CCMS error",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2020-03-26T16:42:05.337Z",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "message": "change VOIP headset on station F19",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-03-27T10:45:11.228Z"
+    },
+    {
+      "id": 3,
+      "message": "add searchLogs2",
+      "attention": false,
+      "tech": "Jennivere Lawrence",
+      "date": "2020-03-27T10:51:43.342Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "firstName": "Jennivere",
+      "lastName": "Lawrence",
+      "id": 4
+    }
+  ]
 }
